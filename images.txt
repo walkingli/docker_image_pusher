@@ -7,3 +7,4 @@ xhofe/alist:latest
 jinshanyun/jinshan-x86_64:latest
 onething1/wxedge:latest
 lsycloud/iaas:v1
+onething1/wxedge:v2.2.19
