@@ -6,3 +6,4 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist:latest
 jinshanyun/jinshan-x86_64:latest
 onething1/wxedge:latest
+lsycloud/iaas:v1
