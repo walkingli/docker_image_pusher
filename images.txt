@@ -5,4 +5,4 @@ xhofe/alist:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
 registry.hub.docker.com/onething1/wxedge:latest
-xhofe/alist
+--platform linux/arm/v7 xhofe/alist
