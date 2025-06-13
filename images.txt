@@ -7,3 +7,5 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 registry.hub.docker.com/onething1/wxedge:latest
 --platform linux/arm/v7 xhofe/alist
+wangbinxingkong/fast
+homeassistant/home-assistant:latest
