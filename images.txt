@@ -1,7 +1,8 @@
-wangbinxingkong/fast
+
 homeassistant/home-assistant:latest
 nginx
 k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 --platform=linux/arm64 xiaoyaliu/alist
 registry.hub.docker.com/onething1/wxedge:latest
 --platform linux/arm/v7 xhofe/alist
+wangbinxingkong/fast
