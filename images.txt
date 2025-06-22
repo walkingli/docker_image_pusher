@@ -2,8 +2,8 @@ cnk3x/xunlei:latest
 nginx
 homeassistant/home-assistant:latest
 k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
---platform linux/arm/v7 xiaoyaliu/alist
+--platform linux/arm64 xiaoyaliu/alist
 registry.hub.docker.com/onething1/wxedge:latest
 wangbinxingkong/fast
-xhofe/alist
+--platform linux/arm/v7 xhofe/alist
 portainer/portainer:latest
