@@ -8,3 +8,4 @@ wangbinxingkong/fast
 --platform linux/arm/v7 xhofe/alist
 portainer/portainer:latest
 --platform linux/arm/v7 herberthe0229/iptv-sources:latest
+--platform linux/arm/v7 dperson/samba
