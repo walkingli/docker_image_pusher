@@ -9,3 +9,7 @@ wangbinxingkong/fast
 portainer/portainer:latest
 --platform linux/arm/v7 herberthe0229/iptv-sources:latest
 --platform linux/arm/v7 dperson/samba
+guovern/iptv-api:latest
+zmisgod/iptvchecker
+--platform linux/arm/v7 guovern/iptv-api:latest
+--platform linux/arm/v7 zmisgod/iptvchecker
