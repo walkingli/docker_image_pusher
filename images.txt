@@ -1,12 +1,12 @@
 cnk3x/xunlei:latest
 nginx
-homeassistant/home-assistant:latest
+--platform linux/arm/v7 homeassistant/home-assistant:latest
 k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 --platform linux/arm64 xiaoyaliu/alist
 registry.hub.docker.com/onething1/wxedge:latest
 wangbinxingkong/fast
 --platform linux/arm/v7 xhofe/alist
-portainer/portainer:latest
+--platform linux/arm/v7 portainer/portainer:latest
 --platform linux/arm/v7 herberthe0229/iptv-sources:latest
 --platform linux/arm/v7 dperson/samba
 guovern/iptv-api:latest
