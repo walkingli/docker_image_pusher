@@ -14,4 +14,4 @@ zmisgod/iptvchecker
 --platform linux/arm/v7 guovern/iptv-api:latest
 --platform linux/arm/v7 zmisgod/iptvchecker
 --platform linux/arm/v7 wangbinxingkong/fast
---platform linux/arm/v7 cnk3x/xunlei:latest
+
